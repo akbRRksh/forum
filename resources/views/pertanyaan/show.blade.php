@@ -1,6 +1,6 @@
 @extends('layouts.master')
 @push('scripts')
-<script src="https://cdn.tiny.cloud/1/y0aei2hae802rnizhu7dvrnheypn7rvwfw3d2oao66re3c6t/tinymce/6/tinymce.min.js" referrerpolicy="origin"></script>
+<script src="https://cdn.tiny.cloud/1/uoh1un5toxf729m6gk45cesn9msd5gio0eyiqpfcmk96pdkf/tinymce/6/tinymce.min.js" referrerpolicy="origin"></script>
 <script>
   tinymce.init({
     selector: 'textarea',

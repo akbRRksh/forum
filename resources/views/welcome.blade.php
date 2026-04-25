@@ -82,8 +82,8 @@
     <div class="row">
       <div class="col-lg-12 text-center zindex-1">
         <h1 class="mb-3">Forum<br>
-          Programmer</h1>
-        <p class="mb-4">Yuk bikin komunitas programming online yang nyaman.<br>
+          Diskusi</h1>
+        <p class="mb-4">Yuk bikin komunitas diskusi online yang nyaman untuk teman mahasiswa.<br>
           Kamu boleh bertanya, boleh juga berbagi.</p>
         <a href="/pertanyaan" class="btn btn-secondary btn-lg">Forum</a>
         <!-- banner image -->

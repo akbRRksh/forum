@@ -1,7 +1,7 @@
 @extends('layouts.master')
 
 @push('headers')
-<script src="https://cdn.tiny.cloud/1/0b86ed3bw65caioyuc6c7m3ovs70djh3e4l0k5ia8h45ac8l/tinymce/6/tinymce.min.js" referrerpolicy="origin"></script>
+<script src="https://cdn.tiny.cloud/1/uoh1un5toxf729m6gk45cesn9msd5gio0eyiqpfcmk96pdkf/tinymce/6/tinymce.min.js" referrerpolicy="origin"></script>
 @endpush
 
 @section('content')
