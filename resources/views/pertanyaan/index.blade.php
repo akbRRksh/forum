@@ -6,7 +6,7 @@
       <div class="card-body">
         <h4 class="card-title">Ayo tanyakan dan diskusikan pada temanmu!</h4>
         <h5 class="card-description">
-            Yuk bikin komunitas diskusi online yang nyaman. Kamu bisa bertanya, boleh juga berbagi.
+            Yuk bikin komunitas diskusi online yang nyaman. Kamu bisa bertanya, dan juga berbagi.
         </h5>
 <a href="/pertanyaan/create" class="btn btn-primary my-3">Tanya</a>
 @if (session('msg'))
