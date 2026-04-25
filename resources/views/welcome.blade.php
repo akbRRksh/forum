@@ -171,68 +171,6 @@
 </section>
 <!-- /feature -->
 
-<!-- team -->
-<section class="section-lg team" id="team">
-  <div class="container-fluid">
-    <div class="row">
-      <div class="col-lg-12 text-center">
-        <h2 class="section-title">Our Team</h2>
-        <p class="mb-100">Dibawah ini adalah para pembuat Forum Programmer<br>Salam Kenal Semuanya.</p>
-      </div>
-    </div>
-    <div class="col-10 mx-auto">
-      <div class="team-slider">
-        <!-- team-member -->
-        <div class="team-member">
-          <div class="d-flex mb-4">
-            <div class="mr-3">
-              <img class="rounded-circle img-fluid" src="images/team/team-1.jpg" alt="team-member">
-            </div>
-            <div class="align-self-center">
-              <h4>Muhamad Yoga Subarkah</h4>
-              <h6 class="text-color">Web Designer</h6>
-            </div>
-          </div>
-          <p>Perkenalkan saya adalah salah satu Karawan swasta asal Jakarta, yang ingin belajar IT Lebih dalam.</p>
-        </div>
-        <!-- team-member -->
-        <div class="team-member">
-          <div class="d-flex mb-4">
-            <div class="mr-3">
-              <img class="rounded-circle img-fluid" src="images/team/team-2.jpg" alt="team-member">
-            </div>
-            <div class="align-self-center">
-              <h4>Ragil Andika Johan</h4>
-              <h6 class="text-color">Web Developer</h6>
-            </div>
-          </div>
-          <p>Perkenalkan saya Johan asal Aceh. Saya baru saja lulus dari Jurusan Teknologi Informasi.</p>
-        </div>
-        <!-- team-member -->
-        <div class="team-member">
-          <div class="d-flex mb-4">
-            <div class="mr-3">
-              <img class="rounded-circle img-fluid" src="images/team/team-1.jpg" alt="team-member">
-            </div>
-            <div class="align-self-center">
-              <h4>Nurul Hidayat</h4>
-              <h6 class="text-color">Programmer</h6>
-            </div>
-          </div>
-          <p>Perkenalkan saya Hidayat asal Semarang. Saya merupakan karyawan swasta yang ingin belajar tentang IT.</p>
-        </div>
-      </div>
-    </div>
-  </div>
-  <!-- backgound image -->
-  <img src="images/backgrounds/team-bg.png" alt="team-bg" class="img-fluid team-bg">
-  <!-- background shapes -->
-  <img class="team-bg-shape-1 up-down-animation" src="images/background-shape/seo-ball-1.png" alt="background-shape">
-  <img class="team-bg-shape-2 left-right-animation" src="images/background-shape/seo-ball-1.png" alt="background-shape">
-  <img class="team-bg-shape-3 left-right-animation" src="images/background-shape/team-bg-triangle.png" alt="background-shape">
-  <img class="team-bg-shape-4 up-down-animation img-fluid" src="images/background-shape/team-bg-dots.png" alt="background-shape">
-</section>
-<!-- /team -->
 <!-- footer -->
 <footer class="footer-section footer" style="background-image: url(images/backgrounds/footer-bg.png);">
   <div class="container">
@@ -240,7 +178,7 @@
       <div class="col-lg-4 text-center text-lg-left mb-4 mb-lg-0">
         <!-- logo -->
         <a href="/pertanyaan">
-          <img class="img-fluid" src="template/images/Logo_forum.png" width="100px" alt="logo">
+          <img class="img-fluid" src="template/images/Logo_forum.png" width="300px" alt="logo">
         </a>
       </div>
       <!-- footer menu -->
